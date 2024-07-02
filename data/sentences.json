@@ -1,0 +1,382 @@
+[
+  {
+    "Japanese": "おはようございます。",
+    "English": "Good morning."
+  },
+  {
+    "Japanese": "こんにちは。",
+    "English": "Good afternoon."
+  },
+  {
+    "Japanese": "こんばんは。",
+    "English": "Good evening."
+  },
+  {
+    "Japanese": "おやすみなさい。",
+    "English": "Good night."
+  },
+  {
+    "Japanese": "ありがとうございます。",
+    "English": "Thank you (polite)."
+  },
+  {
+    "Japanese": "すみません。",
+    "English": "Excuse me / I'm sorry."
+  },
+  {
+    "Japanese": "どういたしまして。",
+    "English": "You're welcome."
+  },
+  {
+    "Japanese": "はじめまして。",
+    "English": "Nice to meet you."
+  },
+  {
+    "Japanese": "よろしくおねがいします。",
+    "English": "Please treat me well / Pleased to meet you."
+  },
+  {
+    "Japanese": "いくらですか。",
+    "English": "How much is it?"
+  },
+  {
+    "Japanese": "これは何ですか。",
+    "English": "What is this?"
+  },
+  {
+    "Japanese": "どこですか。",
+    "English": "Where is it?"
+  },
+  {
+    "Japanese": "トイレはどこですか。",
+    "English": "Where is the restroom?"
+  },
+  {
+    "Japanese": "何時ですか。",
+    "English": "What time is it?"
+  },
+  {
+    "Japanese": "わかりました。",
+    "English": "I understand."
+  },
+  {
+    "Japanese": "わかりません。",
+    "English": "I don't understand."
+  },
+  {
+    "Japanese": "お名前は何ですか。",
+    "English": "What is your name?"
+  },
+  {
+    "Japanese": "私は学生です。",
+    "English": "I am a student."
+  },
+  {
+    "Japanese": "これはおいしいです。",
+    "English": "This is delicious."
+  },
+  {
+    "Japanese": "もっとゆっくり言ってください。",
+    "English": "Please speak more slowly."
+  },
+  {
+    "Japanese": "もう一度言ってください。",
+    "English": "Please say it again."
+  },
+  {
+    "Japanese": "英語が話せますか。",
+    "English": "Can you speak English?"
+  },
+  {
+    "Japanese": "はい、話せます。",
+    "English": "Yes, I can speak."
+  },
+  {
+    "Japanese": "いいえ、話せません。",
+    "English": "No, I cannot speak."
+  },
+  {
+    "Japanese": "助けてください。",
+    "English": "Please help me."
+  },
+  {
+    "Japanese": "お元気ですか。",
+    "English": "How are you?"
+  },
+  {
+    "Japanese": "はい、元気です。",
+    "English": "Yes, I'm fine."
+  },
+  {
+    "Japanese": "いいえ、元気ではありません。",
+    "English": "No, I'm not fine."
+  },
+  {
+    "Japanese": "何歳ですか。",
+    "English": "How old are you?"
+  },
+  {
+    "Japanese": "私は二十歳です。",
+    "English": "I am 20 years old."
+  },
+  {
+    "Japanese": "しつれいします。",
+    "English": "Excuse me (when entering/leaving a room)."
+  },
+  {
+    "Japanese": "でんわばんごうはなんですか。",
+    "English": "What is your phone number?"
+  },
+  {
+    "Japanese": "趣味は何ですか。",
+    "English": "What is your hobby?"
+  },
+  {
+    "Japanese": "私の趣味は読書です。",
+    "English": "My hobby is reading."
+  },
+  {
+    "Japanese": "どこに住んでいますか。",
+    "English": "Where do you live?"
+  },
+  {
+    "Japanese": "東京に住んでいます。",
+    "English": "I live in Tokyo."
+  },
+  {
+    "Japanese": "これは何ですか。",
+    "English": "What is this?"
+  },
+  {
+    "Japanese": "あれは何ですか。",
+    "English": "What is that over there?"
+  },
+  {
+    "Japanese": "どのくらいかかりますか。",
+    "English": "How long does it take?"
+  },
+  {
+    "Japanese": "これは私のです。",
+    "English": "This is mine."
+  },
+  {
+    "Japanese": "あれはあなたのですか。",
+    "English": "Is that yours?"
+  },
+  {
+    "Japanese": "はい、そうです。",
+    "English": "Yes, it is."
+  },
+  {
+    "Japanese": "これはいくらですか。",
+    "English": "How much is this?"
+  },
+  {
+    "Japanese": "高いですね。",
+    "English": "It's expensive, isn't it?"
+  },
+  {
+    "Japanese": "安いですね。",
+    "English": "It's cheap, isn't it?"
+  },
+  {
+    "Japanese": "英語で話してください。",
+    "English": "Please speak in English."
+  },
+  {
+    "Japanese": "日本語が少しわかります。",
+    "English": "I understand a little Japanese."
+  },
+  {
+    "Japanese": "どれですか。",
+    "English": "Which one is it?"
+  },
+  {
+    "Japanese": "今日天気はどうですか。",
+    "English": "How is the weather today?"
+  },
+  {
+    "Japanese": "いい天気ですね。",
+    "English": "It's nice weather, isn't it?"
+  },
+  {
+    "Japanese": "寒くないですか。",
+    "English": "Isn't it cold?"
+  },
+  {
+    "Japanese": "暑くないですか。",
+    "English": "Isn't it hot?"
+  },
+  {
+    "Japanese": "疲れましたか。",
+    "English": "Are you tired?"
+  },
+  {
+    "Japanese": "気をつけてください。",
+    "English": "Please be careful."
+  },
+  {
+    "Japanese": "幸せな一日を。",
+    "English": "Have a happy day."
+  },
+  {
+    "Japanese": "どのくらいですか。",
+    "English": "How much is it (in terms of quantity)?"
+  },
+  {
+    "Japanese": "どこから来ましたか。",
+    "English": "Where are you from?"
+  },
+  {
+    "Japanese": "アメリカから来ました。",
+    "English": "I am from America."
+  },
+  {
+    "Japanese": "何が好きですか。",
+    "English": "What do you like?"
+  },
+  {
+    "Japanese": "私は日本が好きです。",
+    "English": "I like Japan."
+  },
+  {
+    "Japanese": "これは正しいですか。",
+    "English": "Is this correct?"
+  },
+  {
+    "Japanese": "はい、正しいです。",
+    "English": "Yes, that's correct."
+  },
+  {
+    "Japanese": "違います。",
+    "English": "It's different / That's not correct."
+  },
+  {
+    "Japanese": "お手伝いしましょうか。",
+    "English": "Shall I help you?"
+  },
+  {
+    "Japanese": "お願いします。",
+    "English": "Please (when requesting help or a favor)."
+  },
+  {
+    "Japanese": "待ってください。",
+    "English": "Please wait."
+  },
+  {
+    "Japanese": "行きましょう。",
+    "English": "Let's go."
+  },
+  {
+    "Japanese": "座ってください。",
+    "English": "Please sit down."
+  },
+  {
+    "Japanese": "立ってください。",
+    "English": "Please stand up."
+  },
+  {
+    "Japanese": "静かにしてください。",
+    "English": "Please be quiet."
+  },
+  {
+    "Japanese": "もう一度おねがいします。",
+    "English": "Please say it one more time."
+  },
+  {
+    "Japanese": "どうぞ入ってください。",
+    "English": "Please come in."
+  },
+  {
+    "Japanese": "どうぞ座ってください。",
+    "English": "Please have a seat."
+  },
+  {
+    "Japanese": "何と言いましたか。",
+    "English": "What did you say?"
+  },
+  {
+    "Japanese": "見てください。",
+    "English": "Please look."
+  },
+  {
+    "Japanese": "聞いてください。",
+    "English": "Please listen."
+  },
+  {
+    "Japanese": "読んでください。",
+    "English": "Please read."
+  },
+  {
+    "Japanese": "書いてください。",
+    "English": "Please write."
+  },
+  {
+    "Japanese": "いいえ、結構です。",
+    "English": "No, thank you."
+  },
+  {
+    "Japanese": "ちょっと待ってください。",
+    "English": "Please wait a moment."
+  },
+  {
+    "Japanese": "どこに行きますか。",
+    "English": "Where are you going?"
+  },
+  {
+    "Japanese": "ここに来てください。",
+    "English": "Please come here."
+  },
+  {
+    "Japanese": "何時に行きますか。",
+    "English": "What time are you going?"
+  },
+  {
+    "Japanese": "今何時ですか。",
+    "English": "What time is it now?"
+  },
+  {
+    "Japanese": "何をしますか。",
+    "English": "What will you do?"
+  },
+  {
+    "Japanese": "これを使ってください。",
+    "English": "Please use this."
+  },
+  {
+    "Japanese": "どこで会いますか。",
+    "English": "Where shall we meet?"
+  },
+  {
+    "Japanese": "どのくらいかかりますか。",
+    "English": "How long will it take?"
+  },
+  {
+    "Japanese": "いっしょに行きましょう。",
+    "English": "Let's go together."
+  },
+  {
+    "Japanese": "どれが好きですか。",
+    "English": "Which one do you like?"
+  },
+  {
+    "Japanese": "お名前を教えてください。",
+    "English": "Please tell me your name."
+  },
+  {
+    "Japanese": "電話をかけたいです。",
+    "English": "I want to make a phone call."
+  },
+  {
+    "Japanese": "手伝ってもらえますか。",
+    "English": "Can you help me?"
+  },
+  {
+    "Japanese": "どちらがいいですか。",
+    "English": "Which one is better?"
+  },
+  {
+    "Japanese": "どういたしまして。",
+    "English": "You're welcome."
+  }
+]
